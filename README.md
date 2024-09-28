@@ -1,4 +1,4 @@
-# Web-Scraping-Jumia
+# Web-Scraping
 
 
 ## BEST SELLING BOOK ANALYSIS WALMART VS AMAZON
